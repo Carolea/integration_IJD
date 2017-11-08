@@ -108,21 +108,21 @@
     <div class="slider-partenaires">
         <ul>
             <li><img src="img/partenaires/ActiCity_logo2-1024x505.jpg" alt="Logo ActiCity"></li>
-            <li><img src="img/partenaires/CIDJ-logo-InfoJeunesse-1024x642.png" alt></li>
-            <li><img src="img/partenaires/conseil-europeen.png" alt></li>
-            <li><img src="img/partenaires/creps-idf-ministere2-2-1024x642.png" alt></li>
-            <li><img src="img/partenaires/erasmus.png" alt></li>
-            <li><img src="img/partenaires/eryica.png" alt></li>
-            <li><img src="img/partenaires/eurodesk.png" alt></li>
-            <li><img src="img/partenaires/logo-gris.png" alt></li>
-            <li><img src="img/partenaires/logo-noir-1.png" alt></li>
-            <li><img src="img/partenaires/logo-noir-1024x500.png" alt></li>
-            <li><img src="img/partenaires/logo-Tac-Tic.png" alt></li>
-            <li><img src="img/partenaires/logo.png" alt></li>
-            <li><img src="img/partenaires/Logo_CIJ.png" alt></li>
-            <li><img src="img/partenaires/LOGO_creps_strasbourg_site-1024x642.png" alt></li>
-            <li><img src="img/partenaires/Logo_FFJ_Vecto_NB-page-001-1024x536.jpg" alt></li>
-            <li><img src="img/partenaires/Strasbourg.eu-Signature-Verte.jpg" alt></li>
-            <li><img src="img/partenaires/youth-forum.png" alt></li>
+            <li><img src="img/partenaires/CIDJ-logo-InfoJeunesse-1024x642.png" alt=""></li>
+            <li><img src="img/partenaires/conseil-europeen.png" alt=""></li>
+            <li><img src="img/partenaires/creps-idf-ministere2-2-1024x642.png" alt=""></li>
+            <li><img src="img/partenaires/erasmus.png" alt=""></li>
+            <li><img src="img/partenaires/eryica.png" alt=""></li>
+            <li><img src="img/partenaires/eurodesk.png" alt=""></li>
+            <li><img src="img/partenaires/logo-gris.png" alt=""></li>
+            <li><img src="img/partenaires/logo-noir-1.png" alt=""></li>
+            <li><img src="img/partenaires/logo-noir-1024x500.png" alt=""></li>
+            <li><img src="img/partenaires/logo-Tac-Tic.png" alt=""></li>
+            <li><img src="img/partenaires/logo.png" alt=""></li>
+            <li><img src="img/partenaires/Logo_CIJ.png" alt=""></li>
+            <li><img src="img/partenaires/LOGO_creps_strasbourg_site-1024x642.png" alt=""></li>
+            <li><img src="img/partenaires/Logo_FFJ_Vecto_NB-page-001-1024x536.jpg" alt=""></li>
+            <li><img src="img/partenaires/Strasbourg.eu-Signature-Verte.jpg" alt=""></li>
+            <li><img src="img/partenaires/youth-forum.png" alt=""></li>
         </ul>
     </div>
