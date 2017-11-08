@@ -831,15 +831,20 @@ button.button {
 }
 
 .slider-partenaires ul {
-   width: 1700%;
-   height: 30%;
+   width: 100%;
+   height: auto;
    padding:0; margin:0;
    list-style: none;
 }
 .slider-partenaires li {
    float: left;
-    width: 100%;
-    height: 30%;
+}
+
+.slider-partenaires ul li img{
+    object-fit: contain;
+    object-position: center;
+    background-size: contain;
+    
 }
 
 
