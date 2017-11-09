@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bons_plans.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 
@@ -13,7 +14,7 @@
 
     <?php include 'include/header.php'; ?>
 
-    <?php include 'include/partenaires.php'; ?>
+    <?php include 'include/accueil.php'; ?>
     <?php include 'include/footer.php'; ?>
 
 
