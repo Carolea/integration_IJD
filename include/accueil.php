@@ -38,7 +38,7 @@
                 <img src="img/accueil/LOGOJCnoir.png" alt="">
                 <!--offre-->
                 <p>Accédez aux Jeux-concours du moment !</p>
-                <span class="sub-picto"> en savoir +</span>
+                <a href="http://www.cartejeunes.fr/bon-plan/jeux-concours/">  <span class="sub-picto"> en savoir +</span></a>
             </figcaption>
 
             <!--Décompte avant fin de l'offre-->
