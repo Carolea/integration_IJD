@@ -42,9 +42,11 @@
 
     <div class="slider">
         <figure>
-            <img src="img/partenaires/temoignage1.png" alt>
-            <img src="img/partenaires/temoignage2.png" alt>
+            <img src="img/partenaires/temoignage1.png" alt="Témoignage">
         </figure>
+           <figure> 
+            <img src="img/partenaires/temoignage2.png" alt="Témoignage">
+           </figure>
     </div>
 
     <h2>VOUS AUSSI PARTICIPEZ À L’AVENTURE CARTE JEUNES EUROPÉENNE ET EXPLOREZ DE NOUVEAUX TERRITOIRES DE MARQUE !</h2>

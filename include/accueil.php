@@ -4,6 +4,9 @@
 </div>
 <!---->
 
+<!--Scrollback button-->
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i></button>
+
 
 <!--Barre de recherche-->
 
